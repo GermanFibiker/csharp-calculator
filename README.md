@@ -1,20 +1,20 @@
 # C# Calculator
 
-My first C# console application.
+Мой первый проект на C#.
 
-## Features
+## Что умеет
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+- Сложение
+- Вычитание
+- Умножение
+- Деление
 
-## Technologies
+## Технологии
 
 - C#
 - .NET
 - Visual Studio
 
-## Status
+## Цель проекта
 
-Learning project.
+Изучение основ языка C# и создание первых проектов для портфолио.
